@@ -1,0 +1,36 @@
+body {
+background-color: beige;
+font-family: 'Gentium Book Basic', serif;
+}
+
+h2 {
+color: blue;
+text-align: center;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    }   
+
+h3 {
+    font-family: 'Playball', cursive;  
+}
+
+h4 {
+
+    font-family: 'Karla', sans-serif;
+}
+
+.JOEBORDER {
+    border-style: solid;
+    color: red;
+    border-width: 10px;
+    text-align: center;
+    
+       }
+
+   
+
+    
+    
